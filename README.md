@@ -85,7 +85,7 @@ git clone [https://Siddhesh-Kakade/Forest-Health-Classification-using-PyTorch-an
 
 
 Prepare the Data:
-
+DOwnload the data from [drive](https://drive.google.com/file/d/1t34anYxAr0jDIJJSQway05X2SCe0tZ8t/view?usp=sharing). 
 This notebook expects your raw data to be in a main Forest2/ folder.
 
 Create the following subdirectories: Forest2/train_images/, Forest2/train_annotations/, Forest2/test_images/, Forest2/test_annotations/.
